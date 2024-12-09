@@ -27,7 +27,7 @@ token = "API_Token"
 3. Run the script. It will automatically fetch all the alerts created in the previous month and save them to an Excel file.
 
 ```bash
-python opsgenie_alerts_to_excel.py
+python monthly.py
 ```
 
 4. The script will save the data as an Excel file in the same directory with the following naming format: `alertas_opsgenie_<year>_<month>.xlsx`.
