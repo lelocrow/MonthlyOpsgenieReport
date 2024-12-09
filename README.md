@@ -1,6 +1,3 @@
-Aqui está o conteúdo do `README.md` para o seu código, formatado corretamente para você copiar e colar:
-
-```markdown
 # Opsgenie Alerts to Excel
 
 This Python script retrieves alerts from Opsgenie that were created in the previous month and saves the data in an Excel file.
